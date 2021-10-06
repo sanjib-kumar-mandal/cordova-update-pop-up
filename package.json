@@ -1,0 +1,17 @@
+{
+  "name": "appupdatepopup",
+  "version": "1.0.0",
+  "description": "If there is any update available for the current app by the play store this is may be the way to show popup and update",
+  "cordova": {
+    "id": "cordova-plugin-appupdatepopup",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Sanjib Kumar Mandal",
+  "license": "ISC"
+}
